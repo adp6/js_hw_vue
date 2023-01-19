@@ -10,6 +10,7 @@ import TheWelcome from './components/TheWelcome.vue'
 <style>
   #app{
     display: block;
+    background-color: #333;
   }
 </style>
 
