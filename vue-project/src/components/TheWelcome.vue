@@ -38,6 +38,8 @@ export default{
         }
       }
     },
+  },
+  computed:{
     sort(){
       if(this.sortMethod === 'alp'){
         this.list.sort()
